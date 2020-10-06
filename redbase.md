@@ -1,5 +1,9 @@
 # Red Base
+
+## Sauce
 - red sauce
+
+## Toppings
 - pepperoni
 - parmesan
 - white onion rings
