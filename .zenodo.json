@@ -1,8 +1,7 @@
 {
   "title": "classTest",
   "description": "A test for my class on how to deposit a github repo in Zenodo",
-  "creators": [
+  "creator":
     {"name": "Dillen, Wout",
     "orcid": "0000-0002-7862-2403" }
-  ]
 }
