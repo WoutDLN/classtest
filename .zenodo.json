@@ -3,6 +3,6 @@
   "descripton": "A test repo for a class where I teach students to link their github repo to a zenodo deposit.",
   "creators": [
     {"name": "Dillen, Wout",
-    "orcid": }
+    "orcid": "https://orcid.org/0000-0002-7862-2403" }
   ]
 }
